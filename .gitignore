@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+resqvision-frontend/
+resqvision_dev.db
+*.db
+generated_reports/
+.vscode/
