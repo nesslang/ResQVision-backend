@@ -27,3 +27,4 @@ python-dotenv==1.0.1
 structlog==24.2.0
 ortools==9.10.4067
 shap==0.45.1
+reportlab==4.2.2
